@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/MTA3/nbproject/private/
+/MTA3/build/
